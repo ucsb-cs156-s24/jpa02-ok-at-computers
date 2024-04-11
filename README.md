@@ -1,6 +1,6 @@
 # jpa02-ok-at-computers
 
-Repo: https://ucsb-cs156-s24/jpa02-ok-at-computers
+Repo: https://github.com/ucsb-cs156-s24/jpa02-ok-at-computers
 
 Deployed at: http://jpa02-ok-at-computers.dokku-06.cs.ucsb.edu
 
